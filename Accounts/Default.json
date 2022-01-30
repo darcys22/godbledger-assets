@@ -1,0 +1,54 @@
+[
+	{ "code": 1,
+    "name": "Cash",
+    "tags": ["main", "Current Asset", "Asset", "Balance Sheet"]
+  },
+	{ "code": 2,
+    "name": "Accounts Receivable",
+    "tags": ["main", "Current Asset", "Asset", "Balance Sheet"]
+  },
+	{ "code": 3,
+    "name": "Accounts Payable",
+    "tags": ["main", "Current Liability", "Liability", "Balance Sheet"]
+  },
+	{ "code": 4,
+    "name": "Retained Earnings",
+    "tags": ["main", "Equity", "Balance Sheet"]
+  },
+	{ "code": 5,
+    "name": "Sales",k
+    "tags": ["main", "Revenue", "Profit and Loss"]
+  },
+	{ "code": 6,
+    "name": "General Expenses",
+    "tags": ["main", "Expense", "Profit and Loss"]
+  },
+	{ "code": 7,
+    "name": "Rent",
+    "tags": ["main", "Expense", "Profit and Loss"]
+  },
+	{ "code": 8,
+    "name": "Interest",
+    "tags": ["main", "Expense", "Profit and Loss"]
+  },
+	{ "code": 9,
+    "name": "Computer Expenses",
+    "tags": ["main", "Expense", "Profit and Loss"]
+  },
+	{ "code": 10,
+    "name": "Salary and Wages",
+    "tags": ["main", "Expense", "Profit and Loss"]
+  },
+	{ "code": 11,
+    "name": "Minor Equipment",
+    "tags": ["main", "Expense", "Profit and Loss"]
+  },
+	{ "code": 12,
+    "name": "Repairs and Maintenance",
+    "tags": ["main", "Expense", "Profit and Loss"]
+  },
+	{ "code": 13,
+    "name": "Bank Account",
+    "tags": ["external"]
+  },
+]
