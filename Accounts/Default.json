@@ -1,65 +1,65 @@
 [{
-		"id": 1,
+		"id": "1",
 		"name": "Cash",
 		"tags": ["main", "Current Asset", "Asset", "Balance Sheet"]
 	},
 	{
-		"id": 2,
+		"id": "2",
 		"name": "Accounts Receivable",
 		"tags": ["main", "Current Asset", "Asset", "Balance Sheet"]
 	},
 	{
-		"id": 3,
+		"id": "3",
 		"name": "Accounts Payable",
 		"tags": ["main", "Current Liability", "Liability", "Balance Sheet"]
 	},
 	{
-		"id": 4,
+		"id": "4",
 		"name": "Retained Earnings",
 		"tags": ["main", "Equity", "Balance Sheet"]
 	},
 	{
-		"id": 5,
+		"id": "5",
 		"name": "Sales",
 		"tags": ["main", "Revenue", "Profit and Loss"]
 	},
 	{
-		"id": 6,
+		"id": "6",
 		"name": "General Expenses",
 		"tags": ["main", "Expense", "Profit and Loss"]
 	},
 	{
-		"id": 7,
+		"id": "7",
 		"name": "Rent",
 		"tags": ["main", "Expense", "Profit and Loss"]
 	},
 	{
-		"id": 8,
+		"id": "8",
 		"name": "Interest",
 		"tags": ["main", "Expense", "Profit and Loss"]
 	},
 	{
-		"id": 9,
+		"id": "9",
 		"name": "Computer Expenses",
 		"tags": ["main", "Expense", "Profit and Loss"]
 	},
 	{
-		"id": 10,
+		"id": "10",
 		"name": "Salary and Wages",
 		"tags": ["main", "Expense", "Profit and Loss"]
 	},
 	{
-		"id": 11,
+		"id": "11",
 		"name": "Minor Equipment",
 		"tags": ["main", "Expense", "Profit and Loss"]
 	},
 	{
-		"id": 12,
+		"id": "12",
 		"name": "Repairs and Maintenance",
 		"tags": ["main", "Expense", "Profit and Loss"]
 	},
 	{
-		"id": 13,
+		"id": "13",
 		"name": "Bank Account",
 		"tags": ["external"]
 	}
